@@ -28,10 +28,10 @@ Enter_String_To_Determine_if_it_belong_to_this_DFA
 babbbab   
 
 ### output format ###
- Markup : * dead state will appear in gray  
-          * final state will appear in red  
-          * normal state will appear in blue  
-          * initial state will appear surrounded by ()  
+* dead state will appear in gray  
+* final state will appear in red  
+* normal state will appear in blue  
+* initial state will appear surrounded by ()  
          
 
 
