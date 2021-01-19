@@ -4,7 +4,7 @@
 <a name="general-info"></a>
 1. [General Info](#general-info)
 <a name="technologies"></a>
-2. [Tools-&-Technologies](#technologies)
+2. [Tools & Technologies](#Tools-&-Technologies)
 <a name="installation"></a>
 3. [Installation](#installation)
 
