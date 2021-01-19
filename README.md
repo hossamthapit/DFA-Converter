@@ -7,8 +7,6 @@
 2. [Technologies](#technologies)
 <a name="installation"></a>
 3. [Installation](#installation)
-<a name="How-To-Use"></a>
-4. [How To Use](#How-To-Use)
 
 ## General Info
 ***
