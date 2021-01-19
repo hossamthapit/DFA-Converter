@@ -3,7 +3,7 @@
 ## Table of Contents
 <a name="general-info"></a>
 1. [General Info](#general-info)
-<a name="technologies"></a>
+<a name="Tools-&-Technologies"></a>
 2. [Tools & Technologies](#Tools-&-Technologies)
 <a name="installation"></a>
 3. [Installation](#installation)
@@ -51,7 +51,7 @@ babbbab
 ![Image text](/outputDfa.png)
 
 
-## Tools & Technologies 
+## Tools & Technologies
 ***
 A list of tools & technologies used within the project:
 * [OpenGL]
